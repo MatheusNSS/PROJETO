@@ -24,6 +24,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 ## 🚀 Tecnologias
 
+:tada:
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
@@ -50,6 +51,9 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # PROJETO-Rocketseat-
+
 # PROJETO-Rocketseat-
+
 # PROJETO
